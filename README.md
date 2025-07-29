@@ -14,7 +14,7 @@ This repository contains the implementation of **FireNet-Lite**, a highly effici
 title={FireNet-Lite: A Separable Convolutional Network for Ultra-Efficient Fire Image Classification},
 author={Ali, Ghous and Ansari, Mohammad Samar and Ahmed, Muhammad and Yasir, Muhammad Sanad},
 year={2024},
-note={GitHub Repository: https://github.com/ghous-ali/FireNet-Lite}
+note={GitHub Repository: [https://github.com/ghous-ali/FireNet-Lite](https://github.com/ghous-ali/FireNet-Lite)}
 }
 
 ---
